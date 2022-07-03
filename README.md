@@ -10,5 +10,5 @@
 
 
 Buy me a coffee at:
-        - 105873349105 - Vietinbank Bau Cat branch
-Or      - 1029268230 - Vietcombank PGD TAN SON NHI
+        <br> 105873349105 - Vietinbank Bau Cat branch
+Or      <br> 1029268230 - Vietcombank PGD TAN SON NHI
