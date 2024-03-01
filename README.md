@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
- <samp>&gt; Hey There!, I am
-  <b><a target="_blank" href="">Quang</a> but just call me Wang for easy</b>
+ <samp>&gt; Hey There!, I am Quang but just call me
+  <b><a target="_blank" href="">Wang</a> for easy</b>
  </samp>
 </h3>
 
