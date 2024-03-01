@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW12MHd3MjJmMXFodHIzdnhpMHR4Ym9vOHZobXUyeW02ank2bTl1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lSTNj6Az2DoD4QG8mK/giphy.gif"/>
 </div>
 
-<div class="name">Vo Dang Quang</div>
-<div class="about">Ho Chi Minh City, Viet Nam</div>
-<div class="about">IT Engineer</div>
-
 <span>Contact me</span>
 <div class="social-icons">
     <a href="https://web.facebook.com/vd.wangg/">
@@ -16,10 +12,17 @@
     </a>
 </div>
 <div>
-    <i class="fas fa-envelope"></i>
-    <span>Mail: mavisstarkvo@gmail.com</span>
-</div>
-<div>
-    <i class="fas fa-mobile"></i>
-    <span>Number: (+84) 933906160</span>
+  <span>About me</span>
+  <div><img src="https://img.shields.io/badge/My name is:-purple/>Vo Dang Quang</div>
+  <div class="about">Ho Chi Minh City, Viet Nam</div>
+  <div class="about">IT Engineer</div>
+  
+  <div>
+      <i class="fas fa-envelope"></i>
+      <span>Mail: mavisstarkvo@gmail.com</span>
+  </div>
+  <div>
+      <i class="fas fa-mobile"></i>
+      <span>Number: (+84) 933906160</span>
+  </div>
 </div>
