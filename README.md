@@ -12,7 +12,6 @@
         <a href="https://twitter.com/mavisstarkvo" class="twitter"><i class="fab fa-twitter"></i></a>
         <a href="https://www.instagram.com/cactus_vdq/" class="insta"><i class="fab fa-instagram"></i></a>
     </div>
-    
     <div class="contact">
         <span>Contact me></span>
         <div>
