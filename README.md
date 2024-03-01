@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW12MHd3MjJmMXFodHIzdnhpMHR4Ym9vOHZobXUyeW02ank2bTl1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lSTNj6Az2DoD4QG8mK/giphy.gif"/>
 </div>
 
+#Contact me
 <div align="center">
-  <span align="left">Contact me</span>
   <a href="https://web.facebook.com/vd.wangg/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
