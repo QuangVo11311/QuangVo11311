@@ -13,7 +13,7 @@
 </div>
 <div>
   <span>About me</span>
-  <div><img src="https://img.shields.io/badge/My name is:-purple/>Vo Dang Quang</div>
+  <div><img src="https://img.shields.io/badge/My name is:-purple"/>Vo Dang Quang</div>
   <div class="about">Ho Chi Minh City, Viet Nam</div>
   <div class="about">IT Engineer</div>
   
