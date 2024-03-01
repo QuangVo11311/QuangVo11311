@@ -3,7 +3,7 @@
     <div class="about">Ho Chi Minh City, Viet Nam</div>
     <div class="about">IT Engineer</div>
     <div class="social-icons">
-        <a href="[https://www.facebook.com/catus11311/](https://web.facebook.com/vd.wangg/)">
+        <a href="https://web.facebook.com/vd.wangg/">
             <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
         </a>
         <a href="https://github.com/QuangVo11311" class="github"><i class="fab fa-github"></i>
