@@ -34,7 +34,7 @@
  <a href="https://web.facebook.com/vd.wangg" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"/>
  </a>
- <a href="discordapp.com/users/493459039041093652" target="_blank">
+ <a href="https://discord.com/users/493459039041093652" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
  </a>
 </p>
