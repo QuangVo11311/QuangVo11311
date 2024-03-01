@@ -1,40 +1,49 @@
-<div>
-  <ul>
-    <li style="--x:1;"><a href="">Trang chủ</a></li>
-    <li style="--x:2;"><a href="">Đặc điểm</a></li>
-    <li style="--x:3;"><a href="">Về chúng tôi</a></li>
-    <li style="--x:4;"><a href="">Bộ sưu tập</a></li>
-    <li style="--x:5;"><a href="">Đánh giá</a></li>
-    <li style="--x:6;"><a href="">Liên hệ</a></li>
-  </ul>
-</div>
-- Hi my name is Võ Đăng Quang but you can call me Wang or Hikari
-- 🔭 I’m currently studying in college.
-- 🌱 I’m currently learning how to be an IT engineer.
-- 🤔 I’m looking for some peace.
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-![bccea4225680ea25886f634f46c2ce4763720af301b6ae61908328b389f2a6fb](https://user-images.githubusercontent.com/94774447/146408630-4decf956-1ffb-4e30-8c6a-f881ef93394a.jpg)
-
-
-
-- Hi my name is Võ Đăng Quang but you can call me Wang or Hikari
-- 🔭 I’m currently studying in college.
-- 🌱 I’m currently learning how to be an IT engineer.
-- 🤔 I’m looking for some peace.
-
-
-
-Buy me a coffee at:
-- 105873349105 - Vietinbank Bau Cat branch
-- 1029268230 - Vietcombank PGD TAN SON NHI
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <link rel="stylesheet" href="./css/MakeColor.css">
+</head>
+<body>
+    <div class="profile-card">
+        <div class="img-area">
+            <div class="inner-area">
+                <img src="./pic/z3154928112564_cfcff2bed84338dacc32da9d07508cec.jpg" alt="" />
+            </div>
+        </div>
+        <div class="name">Vo Dang Quang</div>
+        <div class="about">
+            Ho Chi Minh City, Viet Nam
+        </div>
+        <div class="about">IT Engineer</div>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/catus11311/" class="fb"><i class="fab fa-facebook"></i></a>
+            <a href="https://github.com/QuangVo11311" class="github"><i class="fab fa-github"></i>
+            <a href="https://twitter.com/mavisstarkvo" class="twitter"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.instagram.com/cactus_vdq/" class="insta"><i class="fab fa-instagram"></i></a>
+        </div>
+    </div>
+    <div id="arrowAnim">
+        <div class="arrowSliding">
+            <div class="arrow"></div>
+        </div>
+        <div class="arrowSliding delay1">
+            <div class="arrow"></div>
+        </div>
+        <div class="arrowSliding delay2">
+            <div class="arrow"></div>
+        </div>
+        <div class="arrowSliding delay3">
+            <div class="arrow"></div>
+        </div>
+    </div>
+    <div class="contact">
+        <span>Contact me></span>
+        <div>
+            <i class="fas fa-envelope"></i>
+            <span>Mail: mavisstarkvo@gmail.com</span>
+        </div>
+        <div>
+            <i class="fas fa-mobile"></i>
+            <span>Number: (+84) 933906160</span>
+        </div>
+    </div>
+</body>
