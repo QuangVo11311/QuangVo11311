@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 I am an IT engineer from <b>Ho Chi Minh City, Viet Nam</b> 」
     <br>
