@@ -4,7 +4,7 @@
     <div class="about">IT Engineer</div>
     <div class="social-icons">
         <a href="https://www.facebook.com/catus11311/">
-            <i class="fa-brands fa-facebook" style="color: #74C0FC;"></i>
+            <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
         </a>
         <a href="https://github.com/QuangVo11311" class="github"><i class="fab fa-github"></i>
         <a href="https://twitter.com/mavisstarkvo" class="twitter"><i class="fab fa-twitter"></i></a>
