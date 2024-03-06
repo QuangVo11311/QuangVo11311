@@ -48,9 +48,11 @@
   
  ✌️ &emsp; Enjoy watching movie and anime<br/><br/>
  ❤️ &emsp; Love to playing Genshin Impact and TFT<br/><br/>
+ 🥲 &emsp; Account boosting Genshin Impact and Honkai: Star Rail<br/><br/>
+ Detail please contact below
  📧 &emsp; Reach me anytime: quangdvo11311@gmail.com<br/><br/>
- 💬 &emsp; If can not contact to me via email, please call:
-<br> (+84) 933906160 or (+84) 354510589
+ 💬 &emsp; If can not contact to me via email, please call:<br/><br/>
+ (+84) 933906160 or (+84) 354510589
 
 </p>
 
