@@ -14,24 +14,21 @@
 
 <p align="center">
 
- <a href="https://twitter.com/mavisstarkvo" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
- </a>
+
  <a href="https://www.instagram.com/vd.wangg" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
  <a href="https://web.facebook.com/vd.wangg" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"/>
  </a>
- <a href="https://discord.com/users/493459039041093652" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
- </a>
+
 </p>
 <br />
 
 <!-- About Section -->
  # About me
- 
+
+
 <p>
  <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW12MHd3MjJmMXFodHIzdnhpMHR4Ym9vOHZobXUyeW02ank2bTl1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lSTNj6Az2DoD4QG8mK/giphy.gif"/>
   
@@ -39,21 +36,39 @@
  ❤️ &emsp; Love to playing Genshin Impact and TFT<br/><br/>
  🥲 &emsp; Account boosting Genshin Impact and Honkai: Star Rail<br/><br/>
  Detail please contact below<br/><br/>
- 📧 &emsp; Reach me anytime: quangdvo11311@gmail.com<br/><br/>
- 💬 &emsp; If can not contact to me via email, please call:<br/><br/>
- (+84) 933906160 or (+84) 354510589
+ 💬 &emsp; If you can't contact to me via email
+ <br>
+ please call: (+84) 933906160 or (+84) 354510589
 
 </p>
 
-<br/>
-<br/>
-<br/>
+</div>
+<br>
+<h2 align="center">🧑‍🦯 Where to find me 🧑‍🦯</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="mailto:quangdvo11311@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
+  </a>
+   <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-quang-v%C3%B5-427659308/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+  </a>
+  <a href="https://www.facebook.com/vd.wangg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
+  </a>
+  <a href="https://www.instagram.com/vd.wangg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
+  </a>
+  <a href="https://discord.com/users/493459039041093652" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=114892&format=png&color=000000" alt="discord"/>
+  </a>
+  <a href="https://twitter.com/mavisstarkvo" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X"/>
+  </a>
+</div>
 
-## Use To Code
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+<br/>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -104,37 +119,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="QuangVo">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangVo11311&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+  <a href="#" title="QuangVo"><img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=QuangVo11311&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/vd.wangg" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-quang-v%C3%B5-427659308/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
-  </a>
-  <a href="https://www.instagram.com/vd.wangg" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
-  </a>
-  <a href="mailto:quangdvo11311@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
-  </a>
-</div>
-
-<br>
-
-<br/>
-<hr/>
 <br/>
 
 <p align="center">
@@ -142,8 +131,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuangVo11311&theme=radical" alt="Wang's GitHub Contribution"/>
   </a>
 </p>
-
-<a>
-  <a href="https://github.com/QuangVo11311"><img alt="Wang's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=QuangVo11311&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="100%%"/></a>
-  <br/>
-</a>
