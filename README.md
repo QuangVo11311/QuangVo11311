@@ -17,7 +17,7 @@
  <a href="https://twitter.com/mavisstarkvo" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
- <a href="https://www.instagram.com/vd.wangg" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
  <a href="https://web.facebook.com/vd.wangg" target="_blank">
@@ -120,17 +120,14 @@
   <a href="https://www.facebook.com/vd.wangg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
   <a href="https://www.linkedin.com/in/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://www.instagram.com/vd.wangg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:quangdvo11311@gmail.com" target="top">
+    <img src="https://img.icons8.com/?size=100&id=68248&format=png&color=000000" alt="email" />
   </a>
 </div>
 
