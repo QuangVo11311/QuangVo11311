@@ -1,10 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
- <samp>&gt; Hey There!, I am Quang but just call me
-  <b><a target="_blank" href="">Wang</a> for easy</b>
- </samp>
+ <samp>&gt; Hi!!! Nice to meet you, I'm Quang</samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -16,14 +13,6 @@
 </p>
 
 <p align="center">
-<!--
- <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
- </a>
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
--->
 
  <a href="https://twitter.com/mavisstarkvo" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -128,11 +117,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.facebook.com/vd.wangg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
   <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
