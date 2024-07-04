@@ -17,7 +17,7 @@
  <a href="https://twitter.com/mavisstarkvo" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
- <a href="" target="_blank">
+ <a href="https://www.instagram.com/vd.wangg" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
  <a href="https://web.facebook.com/vd.wangg" target="_blank">
@@ -120,14 +120,14 @@
   <a href="https://www.facebook.com/vd.wangg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-quang-v%C3%B5-427659308/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/vd.wangg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
   <a href="mailto:quangdvo11311@gmail.com" target="top">
-    <img src="https://img.icons8.com/?size=100&id=68248&format=png&color=000000" alt="email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
 
