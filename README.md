@@ -101,7 +101,7 @@
 <br>
 <div align=center>
 
- <a href="#" title="QuangVo"><img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=QuangVo11311&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
+ <a href="#" title="QuangVo"><img align="left" width="434" src="https://github-readme-stats.vercel.app/api?username=QuangVo11311&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a>
 
  <br/>
  
