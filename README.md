@@ -13,7 +13,7 @@
 
 <!-- About Section -->
 <h2 align="center">☕ About me ☕</h2>
-<p><img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW12MHd3MjJmMXFodHIzdnhpMHR4Ym9vOHZobXUyeW02ank2bTl1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lSTNj6Az2DoD4QG8mK/giphy.gif"/>
+<p><img align="right" src="https://giphy.com/embed/SVCSsoKU5v6ZJLk07n" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
   
  ✌️ &emsp; Enjoy watching movie and anime<br/><br/>
  ❤️ &emsp; Love to playing Genshin Impact and TFT<br/><br/>
