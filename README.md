@@ -13,7 +13,7 @@
 
 <!-- About Section -->
 <h2 align="center">☕ About me ☕</h2>
-<p><img src="https://giphy.com/gifs/giffffr-tyttpGP6TvogbQYMvVS" width="40" height="40" align="right" /></p>
+ <p><img src="https://giphy.com/gifs/giffffr-tyttpGP6TvogbQYMvVS" width="40" height="40" align="right" />
   
  ✌️ &emsp; Enjoy watching movie and anime<br/><br/>
  ❤️ &emsp; Love to playing Genshin Impact and TFT<br/><br/>
