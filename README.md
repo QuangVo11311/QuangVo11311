@@ -14,7 +14,7 @@
 <!-- About Section -->
 <h2 align="center">☕ About me ☕</h2>
 <p>
- <img align="right" width="150" src="https://giphy.com/embed/tyttpGP6TvogbQYMvVS" />
+ <img align="right" width="150" src="https://media.giphy.com/media/tyttpGP6TvogbQYMvVS/giphy.gif" />
   
  ✌️ &emsp; Enjoy watching movie and anime<br/><br/>
  ❤️ &emsp; Love to playing Genshin Impact and TFT<br/><br/>
