@@ -1,11 +1,11 @@
 <!-- Intro  -->
 <h3 align="center">
- <samp>&gt; Hi!!! Nice to meet you, I'm Quang</samp>
+ <samp>Hello mate!!! Nice to meet you, I'm Quang</samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    「 I am an IT engineer from <b>Ho Chi Minh City, Viet Nam</b> 」
+    「 I'm an IT engineer from <b>Ho Chi Minh City, Viet Nam</b> 」
     <br>
     <br>
   </samp>
@@ -17,9 +17,10 @@
  <img align="right" width="350" src="https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" />
   
  ✌️ &emsp; Enjoy watching movie and anime<br/><br/>
- ❤️ &emsp; Love to playing Genshin Impact and TFT<br/><br/>
- 🥲 &emsp; Account boosting Genshin Impact and Honkai: Star Rail<br/><br/>
- 📞 &emsp; Call: (+84) 933906160 or (+84) 354510589
+ ❤️ &emsp; Love to playing RPG and TBT games<br/><br/>
+ 🥲 &emsp; Account boosting Genshin Impact, Honkai: Star Rail and Wuthering Waves (no tools)<br/><br/>
+ 🫣 &emsp; Do not contact me after 11pm pls<br/><br>
+ 📞 &emsp; My phone: (+84) 933906160 or (+84) 354510589
 </p>
 
 </div>
