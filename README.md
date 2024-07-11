@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <samp>
-    「 I'm an IT engineer from <b>Ho Chi Minh City, Viet Nam</b> 」
+    「How are you today?」
     <br>
     <br>
   </samp>
