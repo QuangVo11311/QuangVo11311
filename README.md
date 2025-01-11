@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
- <samp>Hello mate!!! Nice to meet you, I'm Quang</samp>
+ <samp>Hello mate</samp>
 </h3>
 
 <p align="center"> 
@@ -12,20 +12,17 @@
 </p>
 
 <!-- About Section -->
-<h2 align="center">☕ About me ☕</h2>
+<h2 align="center">☕ Contact me ☕</h2>
 <p>
  <img align="right" width="350" src="https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" />
-  
- ✌️ &emsp; Enjoy watching movie and anime<br/><br/>
- ❤️ &emsp; Love to playing RPG and TBT games<br/><br/>
- 🥲 &emsp; Account boosting Genshin Impact, Honkai: Star Rail and Wuthering Waves (no tools)<br/><br/>
- 🫣 &emsp; Do not contact me after 11pm pls<br/><br>
+</p>
+<p>
  📞 &emsp; My phone: (+84) 933906160 or (+84) 354510589
 </p>
 
 </div>
 <br>
-<h2 align="center">🧑‍🦯 Where to find me 🧑‍🦯</h2>
+<h2 align="center">🧑‍🦯 Find me on social media 🧑‍🦯</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
