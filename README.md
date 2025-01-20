@@ -14,7 +14,7 @@
 <!-- About Section -->
 <h2 align="center">☕ Contact me ☕</h2>
 <p>
- <img align="right" width="350" src="https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" />
+ <img align="right" width="250" src="https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" />
 </p>
 <p>
  📞 &emsp; My phone: (+84) 933906160 or (+84) 354510589
